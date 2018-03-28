@@ -1,0 +1,19 @@
+$inputBorderColor: #aaa;
+$focusBorderColor: dodgerBlue;
+$inputShadow: dodgerBlue;
+$btnBackground: #4CAF50;
+
+$white: #fff;
+
+*{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+    top: 0;
+    padding-top: 60px;
+}
