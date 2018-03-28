@@ -1,5 +1,7 @@
-Done by Fidelis Ololube
----------------------------------------
+By Fidelis Ololube
+-------------------
+
+A React App that searches for GitHub repository, using the repository name.
 
 -- Before you try this app, you will first of all install all the dependencies in the "package.json" file.
     npm install <then press enter key>
