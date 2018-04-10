@@ -27,7 +27,7 @@ class App extends Component {
       } catch(error){
         console.log(error);
       }     
-    }else{}
+    }else{console.log("error on page");}
         
   }  
 

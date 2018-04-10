@@ -7,7 +7,7 @@ class Myform extends Component {
             <div>
                 <Form onSubmit={this.props.triggerSearch}>
                     <input type="text" name="search" id="comm" placeholder="enter repo name" />
-                    <Button id="btn">Search</Button>
+                    <Button type="submit" id="btn">Search</Button>
                 </Form>
             </div>
         )
